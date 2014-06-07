@@ -1,0 +1,15 @@
+6/7/14 12:05 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	      10	  210	                       1204	                         1402	
+Remaining:       	       7	  169	                        937	                         1099	
+Unique:          	       5	  105	                        602	                          701	
+Unique Remaining:	       3	   67	                        361	                          425	
+
+
+Individual File Statistics:
+
+File Name                             	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+EricWeinstein.txt                     	             5	                 3	              5	                        3	        105	             67	         105	                    67	                              602	                                  361	                               602	                                         361	                                701	                                    425	                                 701	                                           425	
+ot_proj_local/source/EricWeinstein.txt	             5	                 4	              0	                        0	        105	            102	           0	                     0	                              602	                                  576	                                 0	                                           0	                                701	                                    674	                                   0	                                             0	

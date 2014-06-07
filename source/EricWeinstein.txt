@@ -1,0 +1,6 @@
+Grant
+Geometric Marginalism
+
+The goal of this project is provide the mathematics for a second marginal revolution enabling the natural modeling of heterogeneous agents with unstable beliefs, fully dynamic preferences, and allowances for an increased level of self-inconsistency.
+
+The core economic toolkit is subject to a fundamental trade off. It is generally true that the weaker the mathematical tools available to economists, the stronger the assumptions that must be made about the nature of biological agents. Conversely, it is through the development of stronger mathematical tools that core assumptions may be weakened to be compatible with what is known from the biological and behavioral sciences.

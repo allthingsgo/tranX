@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1_1" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grant
+Geometric Marginalism</seg>
+      </tuv>
+      <tuv lang="ZH-HK" changeid="sye" changedate="20140606T181142Z" creationid="sye" creationdate="20140606T180803Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">EricWeinstein.txt</prop>
+      <prop type="prev">Grant
+Geometric Marginalism</prop>
+      <prop type="next">The core economic toolkit is subject to a fundamental trade off.</prop>
+      <tuv lang="EN-US">
+        <seg>The goal of this project is provide the mathematics for a second marginal revolution enabling the natural modeling of heterogeneous agents with unstable beliefs, fully dynamic preferences, and allowances for an increased level of self-inconsistency.</seg>
+      </tuv>
+      <tuv lang="ZH-HK" changeid="sye" changedate="20140606T183842Z" creationid="sye" creationdate="20140606T182155Z">
+        <seg>本项目的宗旨再于为第二轮边源The goal of this project is provide the mathematics for a second marginal revolution enabling the natural modeling of heterogeneous agents with unstable beliefs, fully dynamic preferences, and allowances for an increased level of self-inconsistency.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
